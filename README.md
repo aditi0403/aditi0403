@@ -12,7 +12,7 @@
 - 🧠 Solved **500+ DSA problems** on LeetCode + GFG  
 - 🌸 Building tools that blend **functionality with aesthetic design**  
 - 🎯 Dedicated to crafting **seamless user experiences** and solving **real-world problems**  
-- 🐍 Also skilled in **Python** and **C++** for backend work, scripting, and problem-solving  
+- 🐍 Also skilled in **Python**  for backend work, scripting, and problem-solving  
 
 💡 *Note:* My GitHub language stats may appear Python-heavy due to certain project structures, but my primary working language and expertise is **JavaScript**.
 
