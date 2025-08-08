@@ -1,6 +1,6 @@
 <h1 align="center">Hey there, I'm Aditi Sharma 🌼</h1>
 <p align="center">
-  Full Stack Developer | MERN Stack Specialist | UI/UX Explorer | DSA Enthusiast | Open Source Contributor
+  Full Stack Developer | MERN Stack Specialist | UI/UX Explorer | DSA | Open Source Contributor
 </p>
 
 ---
