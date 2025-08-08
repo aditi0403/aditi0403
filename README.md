@@ -1,16 +1,20 @@
 <h1 align="center">Hey there, I'm Aditi Sharma 🌼</h1>
 <p align="center">
-  MERN Stack Developer | UI/UX Explorer | DSA Enthusiast | Open Source Contributor
+  Full Stack Developer | MERN Stack Specialist | UI/UX Explorer | DSA Enthusiast | Open Source Contributor
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 💻 Passionate full-stack web developer specializing in the **MERN** stack
-- 🧠 Solved **500+ DSA problems** on LeetCode + GFG
-- 🌸 Currently building tools that blend **functionality with aesthetic design**
-- 🎯 Focused on crafting seamless user experiences and solving real-world problems
+- 💻 Passionate **full-stack web developer** with a **primary focus on JavaScript (MERN stack)**  
+- ⚡ Hands-on experience with **Next.js**, **MUI**, **Node.js**, and **PostgreSQL**  
+- 🧠 Solved **500+ DSA problems** on LeetCode + GFG  
+- 🌸 Building tools that blend **functionality with aesthetic design**  
+- 🎯 Dedicated to crafting **seamless user experiences** and solving **real-world problems**  
+- 🐍 Also skilled in **Python** and **C++** for backend work, scripting, and problem-solving  
+
+💡 *Note:* My GitHub language stats may appear Python-heavy due to certain project structures, but my primary working language and expertise is **JavaScript**.
 
 ---
 
@@ -18,7 +22,10 @@
 
 | Project        | Description |
 |---------------|-------------|
+| [📝 Comma](https://github.com/aditi0403/comma) | A modern blogging platform for creating, managing, and reading blogs |
+| [🪄 CVolve](https://github.com/aditi0403/cvolve) | AI-powered cover letter generator with a clean, modern UI |
 | [🌼 Daisy Clock](https://github.com/aditi0403/Daisy-Clock) | A minimalist desktop clock app with timer, alarm, and stopwatch — shaped like a daisy. [🪟 Windows](https://github.com/aditi0403/Daisy-Clock/releases/download/v1.0.0/Daisy.Clock.Setup.0.1.0.exe) • [🐧 Linux](https://github.com/aditi0403/Daisy-Clock/releases/download/v2.0.0/Daisy.Clock-0.1.0.AppImage) |
+| [💬 Grammatrix](https://github.com/aditi0403/grammatrix) | AI-powered language assistance tool for grammar and phrasing improvements |
 | [🛒 CartIt](https://github.com/aditi0403/CartIt) | Simple cart management app built with vanilla JavaScript |
 | [🗂️ iNotebook](https://github.com/aditi0403/iNotebook) | Online notebook for note creation, categorization, and editing |
 | [📰 NewsStash](https://github.com/aditi0403/NewsStash) | A responsive news app using external APIs |
@@ -29,10 +36,10 @@
 
 ### 🛠 Tech Stack
 
-- **Languages:** JavaScript, HTML5, CSS3, Python
-- **Frontend:** React.js, TailwindCSS, Bootstrap
-- **Backend:** Node.js, Express.js, MongoDB
-- **Others:** Electron, Git, GitHub, Netlify, Vercel, Figma
+- **Languages:** JavaScript (Primary), Python, C++, HTML5, CSS3  
+- **Frontend:** React.js, Next.js, MUI, TailwindCSS, Bootstrap  
+- **Backend:** Node.js, Express.js, MongoDB, PostgreSQL  
+- **Others:** Electron, Git, GitHub, Netlify, Vercel, Figma  
 
 ---
 
